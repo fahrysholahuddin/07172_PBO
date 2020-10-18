@@ -1,0 +1,7 @@
+[Order]
+tanggal: int
+status: int
+-----------
+Pajak()
+Total()
+Berat()
