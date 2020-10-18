@@ -12,14 +12,14 @@ Berat()
 
 [OrderDetail]
 banyakOrder: int
-statusPajak: string
+statusPajak: bolean
 --------------------
 jumlahTotal()
 Berat()
 
 [Item]
-beratPengiriman
-descripsi
+beratPengiriman: int
+descripsi:string
 -----------
-getHargaQuantitas
-getBerat
+getHargaQuantitas()
+getBerat()
