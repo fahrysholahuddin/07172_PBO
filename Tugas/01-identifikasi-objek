@@ -11,10 +11,10 @@ Total()
 Berat()
 
 [OrderDetail]
-BanyakOrder: int
-StatusPajak: string
+banyakOrder: int
+statusPajak: string
 --------------------
-SubTotal()
+jumlahTotal()
 Berat()
 
 [Item]
