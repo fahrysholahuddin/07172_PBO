@@ -1,3 +1,7 @@
+[Pelanggan]
+Nama: int
+Alamat: string
+
 [Order]
 tanggal: int
 status: int
@@ -6,8 +10,15 @@ Pajak()
 Total()
 Berat()
 
+[OrderDetail]
+BanyakOrder: int
+StatusPajak: string
+--------------------
+SubTotal()
+Berat()
+
 [Item]
-beratShipping
+beratPengiriman
 descripsi
 -----------
 getHargaQuantitas
