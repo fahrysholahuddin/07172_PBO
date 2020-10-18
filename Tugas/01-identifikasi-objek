@@ -5,3 +5,10 @@ status: int
 Pajak()
 Total()
 Berat()
+
+[Item]
+beratShipping
+descripsi
+-----------
+getHargaQuantitas
+getBerat
