@@ -1,25 +1,29 @@
-[Pelanggan]
-Nama: int
-Alamat: string
+[siswa]
+nis : int
+nama_siswa : vachar
+alamat : vachar
+---------
+View()
+Simpan()
+Baru()
+Cari()
+hapus()
+ubah()
 
-[Order]
-tanggal: int
-status: int
------------
-Pajak()
-Total()
-Berat()
+[kendaraan]
+nis : int
+no_polisi : int
+merek_kendaraan : varchar
+nama_pemilik : varchar
+---------
+baru()
+simpan()
+hapus()
+ubah()
+cari()
+view()
 
-[OrderDetail]
-banyakOrder: int
-statusPajak: bolean
---------------------
-jumlahTotal()
-Berat()
-
-[Item]
-beratPengiriman: int
-descripsi:string
------------
-getHargaQuantitas()
-getBerat()
+[MasukParkir]
+nis : int
+tanggal_masuk : datetime
+jam_masuk : datetime
