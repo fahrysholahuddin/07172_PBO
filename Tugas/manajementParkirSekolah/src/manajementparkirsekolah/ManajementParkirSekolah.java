@@ -27,7 +27,7 @@ public class ManajementParkirSekolah {
                 case 1 :
                     daftar();
                     break;
-                    11111111111111111111111
+                    
             }
         }
     }
