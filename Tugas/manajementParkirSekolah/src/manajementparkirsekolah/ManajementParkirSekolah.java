@@ -15,7 +15,20 @@ public class ManajementParkirSekolah {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println ("Welcome");
+        int pil;
+        do{
+            System.out.println("1. Daftar ");
+            System.out.println("2. Login ");
+            System.out.println("3. Exit ");
+            System.out.println("Pilih = ");
+            pil = input.nextInt();
+            switch (pil) {
+                case 1 :
+                    daftar();
+                    break;
+            }
+        }
     }
     
 }
