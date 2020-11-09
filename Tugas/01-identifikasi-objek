@@ -27,3 +27,25 @@ view()
 nis : int
 tanggal_masuk : datetime
 jam_masuk : datetime
+
+---------
+simpan()
+cari()
+cetak()
+
+[KeluarParkir]
+nis : int
+tanggal_keluar : datetime
+jam_keluar : datetime
+---------
+simpan()
+cari()
+cetak()
+
+
+[Login]
+username : varchar
+password : varchar
+---------
+masuk()
+keluar()
