@@ -11,8 +11,8 @@ hapus()
 ubah()
 
 [kendaraan]
-nis : int
-no_polisi : int
+nis : varchar
+no_polisi : varchar
 merek_kendaraan : varchar
 nama_pemilik : varchar
 ---------
