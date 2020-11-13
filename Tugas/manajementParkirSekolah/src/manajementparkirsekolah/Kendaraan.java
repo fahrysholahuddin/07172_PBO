@@ -1,9 +1,9 @@
 package manajementparkirsekolah;
 import java.util.Date;
-public class kendaraan {
+public class Kendaraan {
     String noPol,merekKendaraan,namaPemilik;
     Date tanggal;
-    public kendaraan (String noPol,String merekKendaraan, String namaPemilik){
+    public Kendaraan (String noPol,String merekKendaraan, String namaPemilik){
         this.noPol=noPol;
         this.merekKendaraan=merekKendaraan;
         this.namaPemilik=namaPemilik;
