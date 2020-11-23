@@ -1,4 +1,4 @@
-package manajementparkirsekolah.Model;
+package Model;
 
 import Entity.SiswaEntity;
 import java.util.ArrayList;

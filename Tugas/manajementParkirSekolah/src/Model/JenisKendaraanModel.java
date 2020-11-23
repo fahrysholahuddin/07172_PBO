@@ -1,4 +1,4 @@
-package manajementparkirsekolah.Model;
+package Model;
 import Entity.JenisKendaraanEntity;
 import java.util.ArrayList;
 public class JenisKendaraanModel {

@@ -1,5 +1,5 @@
 package Controller;
-import manajementparkirsekolah.Model.JenisKendaraanModel;
+import Model.JenisKendaraanModel;
 import Entity.JenisKendaraanEntity;
 import java.util.Scanner;
 

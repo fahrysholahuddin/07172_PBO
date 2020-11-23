@@ -1,4 +1,4 @@
-package manajementparkirsekolah.Model;
+package Model;
 
 public interface ModelInterfaces {
     public void view ();

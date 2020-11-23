@@ -1,4 +1,4 @@
-package manajementparkirsekolah.Model;
+package Model;
 
 import Entity.AdminEntity;
 import java.text.SimpleDateFormat;

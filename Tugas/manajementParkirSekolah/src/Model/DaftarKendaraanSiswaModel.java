@@ -1,4 +1,4 @@
-package manajementparkirsekolah.Model;
+package Model;
 
 import Entity.DaftarKendaraanSiswaEntity;
 import Entity.KendaraanEntity;
