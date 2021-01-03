@@ -7,7 +7,6 @@ public class Fahry07172_JenisKendaraanModel {
 public  Fahry07172_JenisKendaraanModel () {
     
 }    
-    
     public Fahry07172_JenisKendaraanModel(ArrayList<Fahry07172_JenisKendaraanEntity> jenisKendaraan) {
         jenisKendaraan = new ArrayList <>();
     }
@@ -19,7 +18,5 @@ public  Fahry07172_JenisKendaraanModel () {
 public void insert(Object x) {
         jenisKendaraan.add((Fahry07172_JenisKendaraanEntity) x);
     }
-
-
 
 }

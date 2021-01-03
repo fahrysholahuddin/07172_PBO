@@ -1,5 +1,6 @@
 package Entity;
 
+import Entity.Fahry07172_WargaSekolahAbstractEntity;
 import java.util.Date;
 
 public class Fahry07172_AdminEntity extends Fahry07172_WargaSekolahAbstractEntity{

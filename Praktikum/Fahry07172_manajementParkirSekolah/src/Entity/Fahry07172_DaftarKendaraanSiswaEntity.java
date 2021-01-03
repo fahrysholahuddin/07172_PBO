@@ -1,5 +1,7 @@
 package Entity;
 
+import Entity.Fahry07172_SiswaEntity;
+
 public class Fahry07172_DaftarKendaraanSiswaEntity {
     private Fahry07172_SiswaEntity siswa;
     private boolean isVerified;
