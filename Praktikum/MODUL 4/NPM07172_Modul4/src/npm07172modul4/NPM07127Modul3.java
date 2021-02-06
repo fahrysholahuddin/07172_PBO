@@ -1,21 +1,21 @@
-package Project;
+package npm07172modul4;
 
 import Entity.*;
 import Controller.*;
 import java.util.Scanner;
-import View.GUILogin;
-public class Main {
-//   Fahry07127_SiswaController siswa_c = new Fahry07127_SiswaController();
-//   Fahry07127_AdminController admin_c = new Fahry07127_AdminController();
-//   Fahry07127_KendaraanController kendaraan_c = new Fahry07127_KendaraanController();
-//   Fahry07127_KategoriEntity kategori= new Fahry07127_KategoriEntity();
+import View.Fahry07172_GUILogin;
+public class NPM07127Modul3 {
+//   Fahry07172_SiswaController siswa_c = new Fahry07172_SiswaController();
+//   Fahry07172_AdminController admin_c = new Fahry07172_AdminController();
+//   Fahry07172_KendaraanController kendaraan_c = new Fahry07172_KendaraanController();
+//   Fahry07172_KategoriEntity kategori= new Fahry07172_KategoriEntity();
 //   Scanner input = new Scanner(System.in);
 
   
     public static void main(String[] args) {
-        GUILogin gui = new GUILogin();
+        Fahry07172_GUILogin gui = new Fahry07172_GUILogin();
     }
-//         Main data = new Main();
+//         NPM07127Modul3 data = new NPM07127Modul3();
 //        data.Menu();
 //    }
 //    

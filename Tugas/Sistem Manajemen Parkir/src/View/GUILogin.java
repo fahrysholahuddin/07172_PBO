@@ -6,7 +6,7 @@ import java.awt.event.ActionListener;
 import javax.swing.*;
 /**
  *
- * @author yogi
+ * @author Fahry
  */
 
 public class GUILogin {
